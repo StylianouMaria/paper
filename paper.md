@@ -1,5 +1,5 @@
 #Title 
-Paint or not to paint 
+Paint or not to paint: Ocean 
 
 #Author
 Maria Stylianou
