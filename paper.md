@@ -1,5 +1,5 @@
 #Title 
-Paint or not to paint 
+Simulations- Paint or not to paint 
 
 #Author
 Maria Stylianou
