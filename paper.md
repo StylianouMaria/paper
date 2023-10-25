@@ -24,6 +24,10 @@ through years.
 print-making techniques, usually to produce lines of simplicity and 
 expressive quality (Picasso, 1881)
 
-- da Vinci applied very thin, nearly transparent layers of oil paint with 
+-da Vinci applied very thin, nearly transparent layers of oil paint with 
 his fingers over many months to slowly build up the glowing, softly 
 focused image of Mona Lisa.
+
+#Figures
+All figures are going under this section
+
