@@ -11,3 +11,5 @@ We present canvas paintings inspired by nature.
 types you use (Stylianou et al 2023).
 
 Stylianou et al (2023) refers to different type of colours
+You can use acrylic, oil or even water colour. However water colours are 
+not recommended for canvas. 
