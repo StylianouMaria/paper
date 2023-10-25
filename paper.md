@@ -17,3 +17,9 @@ not recommended for canvas.
 #Simulations
 We observe the evolution of painting techniques and how they changed 
 through years.
+
+#Methodolofy
+
+- The Picasso technique: Picasso used drypoint combined with original 
+print-making techniques, usually to produce lines of simplicity and 
+expressive quality (Picasso, 1881)
