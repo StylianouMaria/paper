@@ -3,6 +3,7 @@ Paint or not to paint: Ocean and mountains
 
 #Author
 Maria Stylianou
+John Stathos
 
 #Introduction
 We present canvas paintings inspired by nature.
