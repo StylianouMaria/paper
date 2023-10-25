@@ -2,7 +2,7 @@
 Paint or not to paint: Ocean and mountains 
 
 #Author
-Maria Stylianou
+Maria Stylianou, University of Manchester
 
 #Introduction
 We present canvas paintings inspired by nature.
